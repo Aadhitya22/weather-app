@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(149, 192, 223);
+  text-align: center;
+}
+
+h1 {
+  margin: 150px auto 100px auto;
+}
+
+h4 {
+  margin-bottom: 2rem;
+}
